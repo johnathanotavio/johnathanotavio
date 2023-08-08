@@ -11,3 +11,12 @@
 <a href = "johnathan_omdc@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Estatísticas GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnathanotavio)](https://github.com/johnathanotavio/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnathanotavio&layout=compact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
