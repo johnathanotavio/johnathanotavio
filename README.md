@@ -11,6 +11,9 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/johnathan-otavio-49b7ab23a/)
 <a href="https://www.instagram.com/johnathanotavio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/johnathan_omdc?tab=skills)
+<a href="mailto:johnathan_omdc@outlook.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ## Formação em andamento
 
