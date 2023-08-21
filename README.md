@@ -31,4 +31,3 @@
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnathanotavio&layout=compact&theme=dracula)
 ![Snake animation](https://raw.githubusercontent.com/johnathanotavio/johnathanotavio/output/github-contribution-grid-snake-dark.svg)
-## test
